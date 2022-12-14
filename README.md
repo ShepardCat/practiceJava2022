@@ -1,2 +1,2 @@
-# practikJava2022
-practik Java 2022 
+# practiceJava2022
+practice Java 2022 
